@@ -1,0 +1,7 @@
+[submodule "themes/dojocon-japan-2017"]
+	path = themes/dojocon-japan-2017
+	url = https://github.com/ixkaito/dojocon-japan-2017.git
+[submodule "plugins/dojocon-japan"]
+	path = plugins/dojocon-japan
+	url = https://github.com/ixkaito/dojocon-japan-plugin.git
+
