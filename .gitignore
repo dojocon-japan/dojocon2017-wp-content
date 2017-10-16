@@ -2,7 +2,7 @@ advanced-cache.php
 wp-cache-config.php
 cache/
 updraft/
-really-simple-captcha/tmp/
+plugins/siteguard/really-simple-captcha/tmp/
 
 # Apache
 .htaccess
